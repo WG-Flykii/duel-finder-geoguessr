@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         GeoGuessr Duel Finder
 // @namespace    http://tampermonkey.net/
-// @version      2.2
+// @version      1.0
 // @description  Find all duels against a specific user
-// @author       You
+// @author       Flykii and Att
 // @match        https://www.geoguessr.com/*
 // @grant        none
 // ==/UserScript==
